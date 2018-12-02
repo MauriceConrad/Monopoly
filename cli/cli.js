@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const Monopoly = require("../");
 const render = require('./render/text');
 const commandLineArgs = require('command-line-args');
