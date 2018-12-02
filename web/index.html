@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Monopoly</title>
+    <style media="screen">
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .cli {
+        width: 100%;
+        background-color: #fff;
+        font-family: "Helvetica";
+        line-height: 0.75em;
+        font-size: 1.3em;
+      }
+    </style>
+    <script src="js/cli-browser.js" charset="utf-8"></script>
+    <script type="text/javascript">
+      function onWrite(text) {
+        const cliInner = document.querySelector(".cli pre");
+        cliInner.innerHTML = text;
+      }
+    </script>
+  </head>
+  <body>
+    <div class="cli">
+      <pre></pre>
+    </div>
+  </body>
+</html>

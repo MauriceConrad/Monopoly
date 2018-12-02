@@ -1,0 +1,19 @@
+{
+  "name": "cli-monopolygame",
+  "version": "1.0.0",
+  "description": "CLI implementation of monopolygame",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "monopoly",
+    "game",
+    "cli"
+  ],
+  "author": "Maurice Conrad",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.0.2"
+  }
+}

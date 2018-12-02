@@ -1,0 +1,23 @@
+{
+	"name": "monopolygame",
+	"version": "0.1.0",
+	"description": "Monopoly game engine",
+	"keywords": [
+		"monopoly",
+		"game",
+		"board"
+	],
+	"license": "ISC",
+	"author": "Maurice Conrad",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/MauriceConrad/Monopoly.git"
+	},
+	"git": "git+https://github.com/MauriceConrad/Monopoly.git",
+	"devDependencies": {}
+	
+}

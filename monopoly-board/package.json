@@ -1,0 +1,16 @@
+{
+	"name": "monopoly-board",
+	"version": "0.1.0",
+	"description": "MOnopoly board controller",
+	"keywords": [
+		"monopoly",
+		"board",
+		"controller"
+	],
+	"license": "ISC",
+	"author": "Maurice Conrad",
+	"main": "board.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
