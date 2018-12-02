@@ -18,7 +18,7 @@ npm install monopolygame -g
 $ monopolygame --teams 2 --wallet 40000
 ```
 
-![Preview](https://i.postimg.cc/j5mTXLp1/Bildschirmfoto-2018-12-02-um-16-50-29.png)
+![Preview](https://i.postimg.cc/qqmy5d5b/Bildschirmfoto-2018-12-02-um-20-00-49.png)
 
 ## Require
 
